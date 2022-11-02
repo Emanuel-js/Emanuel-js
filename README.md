@@ -1,5 +1,9 @@
+[![MasterHead](https://semidotinfotech.com/web/images/frontend_banner.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Amanuel Awol</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🌱 I’m currently learning **Nestjs,Angular**
 
