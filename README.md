@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nestjs,Angular**
 
-- 👨‍💻 All of my projects are available at [emanuelawol.com](emanuelawol.com)
+- 👨‍💻 All of my projects are available at [emanuelawol](https://emanuel-js.github.io/)
 
 - 💬 Ask me about **React,Flutter and Nodejs**
 
