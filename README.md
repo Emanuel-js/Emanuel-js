@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🌱 I’m currently learning **Nestjs,Angular**
+- 🌱 I’m currently learning **Nestjs,Angular and Jest**
 
 - 👨‍💻 All of my projects are available at [emanuelawol](https://emanuel-js.github.io/)
 
